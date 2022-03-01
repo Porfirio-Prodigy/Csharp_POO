@@ -1,0 +1,5 @@
+C:\Users\joaop\Documents\code\CSHARP\obj\Debug\net6.0\CSHARP.csproj.AssemblyReference.cache
+C:\Users\joaop\Documents\code\CSHARP\obj\Debug\net6.0\CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\Documents\code\CSHARP\obj\Debug\net6.0\CSHARP.AssemblyInfoInputs.cache
+C:\Users\joaop\Documents\code\CSHARP\obj\Debug\net6.0\CSHARP.AssemblyInfo.cs
+C:\Users\joaop\Documents\code\CSHARP\obj\Debug\net6.0\CSHARP.csproj.CoreCompileInputs.cache
